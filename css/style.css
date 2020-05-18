@@ -46,13 +46,11 @@ body{
 	margin: 0 auto;
 }
 
-.logo__img{
-	/* width: 75%; */
 }
 
 .blok{
 	max-width: 100%;
-	background: url(/img/photo.png) center;
+	background: url(img/photo.png) center;
 	position: relative;
 }
 
