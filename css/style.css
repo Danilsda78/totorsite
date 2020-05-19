@@ -50,7 +50,7 @@ body{
 
 .blok{
 	max-width: 100%;
-	background: url(../img/photo.png) center;
+	background: url(../img/photo.png);
 	position: relative;
 }
 
