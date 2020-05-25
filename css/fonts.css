@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'FontAwesome';
+	src: url('fonts/fontawesome-webfont.eot');
+	src: local('☺'), url('fonts/fontawesome-webfont.woff') format('woff'), url('fonts/fontawesome-webfont.ttf') format('truetype'), url('fonts/fontawesome-webfont.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Lato-Black';
+	src: url('fonts/Lato-Black.eot');
+	src: local('☺'), url('fonts/Lato-Black.woff') format('woff'), url('fonts/Lato-Black.ttf') format('truetype'), url('fonts/Lato-Black.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Lato-Thin';
+	src: url('fonts/Lato-Thin.eot');
+	src: local('☺'), url('fonts/Lato-Thin.woff') format('woff'), url('fonts/Lato-Thin.ttf') format('truetype'), url('fonts/Lato-Thin.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Lato-ThinItalic';
+	src: url('fonts/Lato-ThinItalic.eot');
+	src: local('☺'), url('fonts/Lato-ThinItalic.woff') format('woff'), url('fonts/Lato-ThinItalic.ttf') format('truetype'), url('fonts/Lato-ThinItalic.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'MyriadPro';
+	src: url('fonts/MyriadPro-Bold.eot');
+	src: local('☺'), url('fonts/MyriadPro-Bold.woff') format('woff'), url('fonts/MyriadPro-Bold.ttf') format('truetype'), url('fonts/MyriadPro-Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
